@@ -1,0 +1,23 @@
+{
+  "name": "react-native-eplanning",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jerocosta/react-native-eplanning.git"
+  },
+  "version": "1.0.0",
+  "description": "ePlanning for React Native!",
+  "main": "index.js",
+  "author": "Jerónimo Costa <jeronimo.costa@dift.co> (http://dift.co)",
+  "keywords": [
+    "react",
+    "native",
+    "eplanning",
+    "ads",
+    "banner",
+    "adserver",
+    "metrics",
+    "events",
+    "experiment",
+    "variant"
+  ]
+}
