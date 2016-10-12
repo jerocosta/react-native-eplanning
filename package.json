@@ -19,5 +19,8 @@
     "events",
     "experiment",
     "variant"
-  ]
+  ],
+  "dependencies": {
+    "react-xml-parser": "^1.0.2"
+  }
 }
