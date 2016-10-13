@@ -21,6 +21,7 @@
     "variant"
   ],
   "dependencies": {
+    "react-native-device-info": "^0.9.5",
     "react-xml-parser": "^1.0.2"
   }
 }
